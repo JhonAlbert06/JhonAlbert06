@@ -12,7 +12,7 @@
 ###
 
 <p align="left">
-🚀 I'm currently working as a Software Engineer at <strong>The Net Nook</strong>, where I build APIs, microservices, and frontend solutions.<br>
+🚀 I'm currently working as a .NET Developer | SQL Developer at <strong>GAURE GROUP SRL</strong>, where I build APIs, microservices, and frontend solutions.<br>
 🛠 I’ve also helped improve logistics for cocoa traceability at CONACADO by co-designing a real-time tracking system.<br>
 📱 Learning mobile development with <strong>Flutter</strong> and <strong>Jetpack Compose</strong> — mobile is my next frontier.<br>
 💡 I enjoy solving problems, documenting clean solutions, and collaborating with diverse teams.<br>
