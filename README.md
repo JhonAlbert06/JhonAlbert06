@@ -12,9 +12,10 @@
 ###
 
 <p align="left">
-🚀 I'm currently working as a .NET Developer | SQL Developer at <strong>GAURE GROUP SRL</strong>, where I build APIs, microservices, and frontend solutions.<br>
-🛠 I’ve also helped improve logistics for cocoa traceability at CONACADO by co-designing a real-time tracking system.<br>
-📱 Learning mobile development with <strong>Flutter</strong> and <strong>Jetpack Compose</strong> — mobile is my next frontier.<br>
+🚀 I'm currently working as a .NET Developer | SQL Developer at <strong>GAURE GROUP SRL</strong>, building backend and frontend solutions using .NET technologies and working with SQL Server to develop and maintain robust database systems.<br>
+🛠 Previously, at <strong>The Net Nook</strong>, I developed APIs, microservices, SQL database logic, and frontend solutions using Angular.<br>
+📦 I’ve also helped improve logistics for cocoa traceability at CONACADO by co-designing a real-time tracking system.<br>
+📱 Learning mobile development with <strong>Flutter</strong>, <strong>Jetpack Compose</strong> and <strong>Swift</strong> — mobile is my next frontier.<br>
 💡 I enjoy solving problems, documenting clean solutions, and collaborating with diverse teams.<br>
 🎯 Long-term goal: become a well-rounded full-stack developer, with strong mobile chops.<br>
 😄 Fun fact: I love building things from scratch. There’s something satisfying about turning an idea into a working app.
