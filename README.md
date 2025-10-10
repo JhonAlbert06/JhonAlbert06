@@ -18,7 +18,6 @@
 📱 Learning mobile development with <strong>Flutter</strong>, <strong>Jetpack Compose</strong> and <strong>Swift</strong> — mobile is my next frontier.<br>
 💡 I enjoy solving problems, documenting clean solutions, and collaborating with diverse teams.<br>
 🎯 Long-term goal: become a well-rounded full-stack developer, with strong mobile chops.<br>
-😄 Fun fact: I love building things from scratch. There’s something satisfying about turning an idea into a working app.
 </p>
 
 ###
@@ -28,9 +27,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="C# .NET logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
   <img width="12" />
