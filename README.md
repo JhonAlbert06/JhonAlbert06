@@ -12,12 +12,13 @@
 ###
 
 <p align="left">
-🚀 I'm currently working as a .NET Developer | SQL Developer at <strong>GAURE GROUP SRL</strong>, building backend and frontend solutions using .NET technologies and working with SQL Server to develop and maintain robust database systems.<br>
-🛠 Previously, at <strong>The Net Nook</strong>, I developed APIs, microservices, SQL database logic, and frontend solutions using Angular.<br>
-📦 I’ve also helped improve logistics for cocoa traceability at CONACADO by co-designing a real-time tracking system.<br>
-📱 Learning mobile development with <strong>Flutter</strong>, <strong>Jetpack Compose</strong> and <strong>Swift</strong> — mobile is my next frontier.<br>
-💡 I enjoy solving problems, documenting clean solutions, and collaborating with diverse teams.<br>
-🎯 Long-term goal: become a well-rounded full-stack developer, with strong mobile chops.<br>
+🚀 Currently working at <strong>CloudYA</strong> as a Software Developer, building full-stack solutions using <strong>Python</strong> for both <strong>backend and frontend</strong>, and <strong>Flutter</strong> for cross-platform mobile applications.<br>
+🛠 Previously, at <strong>GAURE GROUP SRL</strong>, I worked as a .NET Developer | SQL Developer, developing backend and frontend solutions with .NET technologies and designing robust database systems.<br>
+🧩 Before that, at <strong>The Net Nook</strong>, I developed APIs, microservices, SQL database logic, and frontend applications using Angular.<br>
+📦 I also contributed to improving logistics and cocoa traceability at <strong>CONACADO</strong> by co-designing a real-time tracking system.<br>
+📱 Actively building mobile applications with <strong>Flutter</strong>, and expanding skills in <strong>Jetpack Compose</strong> and <strong>Swift</strong>.<br>
+💡 I enjoy solving problems, writing clean and maintainable code, and collaborating with multidisciplinary teams.<br>
+🎯 Long-term goal: become a well-rounded full-stack developer with strong mobile expertise.
 </p>
 
 ###
@@ -27,29 +28,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </div>
 
 ###
